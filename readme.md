@@ -6,6 +6,7 @@ Hovering over each pin on the map will show information about each roller coaste
 
 Clicking the link in the description on the webpage will take users to a stylized official 2025 park map which will show all attractions, shows, and experiences in much more detail. This map is accurate as of October 2025.
 
-Tilemap: Stadia Maps 
+Tilemap: OpenStreetMaps
 
 Official Park Map: Busch Gardens Williamsburg, SeaWorld/United Parks & Resorts
+
